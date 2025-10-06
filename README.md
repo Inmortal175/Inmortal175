@@ -28,21 +28,15 @@
 
 | Nombre | Descripción | Lenguaje | Última actualización |
 |--------|-------------|----------|----------------------|
-| [Ticket_comedor-v1](https://github.com/Inmortal175/Ticket_comedor-v1) | Proyecto en JavaScript relacionado con sistema de comedor | JavaScript | Ago 31, 2025 |
-| [matricula-laboratorio](https://github.com/Inmortal175/matricula-laboratorio) | Sistema de matrícula para laboratorio | TypeScript | Mar 26, 2025 |
-| [i-code](https://github.com/Inmortal175/i-code) | Proyecto web en HTML | HTML | Ene 13, 2025 |
+| [Ticket_comedor-v1](https://github.com/Inmortal175/Ticket_comedor-v1) | Proyecto en JavaScript relacionado con sistema de comedor Extension para Chromium | JavaScript | Ago 31, 2025 |
+| [matricula-laboratorio](https://github.com/Inmortal175/matricula-laboratorio) | Sistema de matrícula para laboratorio EPIS | TypeScript | Mar 26, 2025 |
 | [boleteria-comedor-unsch](https://github.com/Inmortal175/boleteria-comedor-unsch) | Sistema de boletería para comedor UNSCH | HTML | Sep 30, 2024 |
 | [BackEndComedor](https://github.com/Inmortal175/BackEndComedor) | Backend en Python para sistema de comedor | Python | Sep 19, 2024 |
-| [Clases-POO-y-DRF](https://github.com/Inmortal175/Clases-POO-y-DRF) | Clases interactivas de POO y DRF para API RestFul | Python | Ago 3, 2024 |
 | [BibliotecaBliz_API](https://github.com/Inmortal175/BibliotecaBliz_API) | API en Python para gestión de biblioteca | Python | Jun 2, 2024 |
 | [biblioteca-bliz](https://github.com/Inmortal175/biblioteca-bliz) | Proyecto frontend en JavaScript para biblioteca | JavaScript | Jun 2, 2024 |
-| [HOTELHUB](https://github.com/Inmortal175/HOTELHUB) | Aplicación para gestión de hotel | TypeScript | May 21, 2023 |
 | [Cal_matriz](https://github.com/Inmortal175/Cal_matriz) | Proyecto en Python de cálculo de matrices | Python | Ene 21, 2023 |
 | [kallpa_rest](https://github.com/Inmortal175/kallpa_rest) | API REST en JavaScript | JavaScript | Jul 23, 2022 |
 | [Kallpa_Skins](https://github.com/Inmortal175/Kallpa_Skins) | Proyecto en JavaScript de skins | JavaScript | Jul 23, 2022 |
-| [github-slideshow](https://github.com/Inmortal175/github-slideshow) | Repositorio de entrenamiento con robot 🤖 | HTML | Jun 10, 2021 |
-| [Ubigeo-Peru](https://github.com/Inmortal175/Ubigeo-Peru) | Base de datos de departamentos, provincias y distritos del Perú | PHP | Oct 5, 2019 |
-| [ubigeos-peru](https://github.com/Inmortal175/ubigeos-peru) | Datos JSON y SQL sobre departamentos, provincias, distritos | PHP | Nov 12, 2015 |
 
 ---
 <h3 align="left">Contactos:</h3>
