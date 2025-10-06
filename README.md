@@ -9,7 +9,7 @@
 
 - Pregúntame acerca de **Python, TypeScript, JavaScript, Java, C**
 
-- Mis experiencias en [https://www.linkedin.com/in/franklin-figueroa-perez-5917b9177/](https://www.linkedin.com/in/franklin-figueroa-perez-5917b9177/)
+- Mis experiencias en [linkedIn](https://www.linkedin.com/in/franklin-figueroa-perez-5917b9177/)
 
 ---
 **Mis Tecnologías y Frameworks Favoritos**
