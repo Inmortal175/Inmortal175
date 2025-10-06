@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Inmortal175
+
+<!---- 👋 Hi, I’m @Inmortal175
 - 👀 I’m interested in Web Develop
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on UNSCH
 - 📫 How to reach me Freed
 
 
-<!---
 Inmortal175/Inmortal175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
 <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/django/django-icon.svg" alt="drf" width="40" height="40"/></a>
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
 </p>
