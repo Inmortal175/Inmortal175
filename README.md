@@ -40,7 +40,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
-<a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"><img src="[https://www.vectorlogo.zone/logos/django/django-icon.svg](https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png)" alt="drf" width="40" height="40"/></a>
+<a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png" alt="drf" width="40" height="40"/></a>
 <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
 </p>
 
